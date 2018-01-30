@@ -79,6 +79,9 @@ body{
 	.header p {
 		display: none;
 	}
+	#vegas {
+	height: 200px;
+	}
 	
 	
 	
@@ -186,7 +189,10 @@ body{
 	.main-menu {
 		display: block!important;
 	}
+	#vegas {
+	height: 500px;
 	}
+}
 
 
 
@@ -401,9 +407,7 @@ body{
 	color: #F1C40F;
 	text-decoration: none;
 }
-#vegas {
-	height: 500px;
-}
+
 
 
 
